@@ -9,7 +9,7 @@ phases:
       - echo Build complete.
 artifacts:
   files:
-    - scripts/*.sh
     - appspec.yml
     - target/contacts-app.jar
+    - scripts/*.sh
   discard-paths: yes
