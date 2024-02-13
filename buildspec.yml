@@ -10,4 +10,5 @@ phases:
 artifacts:
   files:
     - target/contacts-app.jar
+    - appspec.yml
   discard-paths: yes
