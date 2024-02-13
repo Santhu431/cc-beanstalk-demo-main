@@ -9,6 +9,6 @@ phases:
       - echo Build complete.
 artifacts:
   files:
-    - target/contacts-app.jar
     - appspec.yml
+    - target/contacts-app.jar
   discard-paths: yes
